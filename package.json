@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "async": "~3.0.1",
-    "java": "git+ssh://git@github.com:ibmruntimes/node-java#node12-zos",
+    "java": "git+https://github.com/ibmruntimes/node-java.git#node12-zos",
     "lodash": "~4.17.11",
     "uuid": "^3.3.2",
     "winston": "^3.2.1"
